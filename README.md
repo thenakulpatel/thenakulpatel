@@ -4,8 +4,16 @@
 <img align="right" alt="Coding" width="400"  src="https://4kwallpapers.com/images/walls/thumbs_3t/13642.png">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenakulpatel&label=Profile%20views&color=red&style=flat" alt="thenakulpatel" /> </p>
-<h3 align="left">--> Connect with me 👇 </h3>
-- 📩 <a target="_blank" href="nakuljpatel1@gmail.com">nakuljpatel1@gmail.com</a>
+
+
+- 📫 How to reach me : **nakuljpatel1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nakuljpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakuljpatel" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nakuljpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nakuljpatel" height="30" width="40" /></a>
+</p>
+
  </p>
 
 <p align="left">
