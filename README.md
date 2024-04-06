@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenakulpatel&label=Profile%20views&color=red&style=flat" alt="thenakulpatel" /> </p>
 <h3 align="left">--> Connect with me 👇 </h3>
-- 📩 **nakuljpatel1@gmail.com**
+- 📩 <a target="_blank" href="nakuljpatel1@gmail.com">nakuljpatel1@gmail.com</a>
  </p>
 
 <p align="left">
