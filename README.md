@@ -18,10 +18,10 @@
  <!-- <a href="https://github.com/" target"_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/></a>
   -->
   </p>
-  <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenakulpatel&show_icons=true&locale=en&layout=compact" alt="thenakulpatel" /></p>
 <p>&nbsp;<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=thenakulpatel&show_icons=true&locale=en" alt="thenakulpatel" /></p>
 <br><br><br><br>
-<img align="left" alt="Coding" width="400"  src="https://4kwallpapers.com/images/walls/thumbs_3t/13660.png">
+<img align="left" alt="Coding" height="200"  src="https://4kwallpapers.com/images/walls/thumbs_3t/13660.png">
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thenakulpatel&" alt="thenakulpatel" /></p>
 <br>
