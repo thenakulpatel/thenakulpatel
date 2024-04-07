@@ -27,7 +27,7 @@
   -->
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenakulpatel&show_icons=true&locale=en&layout=compact" alt="thenakulpatel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenakulpatel&show_icons=true&locale=en&layout=compact" alt="thenakulpatel" /></p>
 <p>&nbsp;<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=thenakulpatel&show_icons=true&locale=en" alt="thenakulpatel" /></p>
 <br><br><br><br>
 <img align="left" alt="Coding" height="200"  src="https://4kwallpapers.com/images/walls/thumbs_3t/13660.png">
