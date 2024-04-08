@@ -32,5 +32,5 @@
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=thenakulpatel&show_icons=true&locale=en" alt="thenakulpatel" />
 <br><br>
 <img align="left" alt="Coding" height="200"  src="https://4kwallpapers.com/images/walls/thumbs_3t/13660.png">
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thenakulpatel&" alt="thenakulpatel" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thenakulpatel&" alt="thenakulpatel" />
 <br>
